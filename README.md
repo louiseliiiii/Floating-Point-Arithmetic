@@ -2,7 +2,7 @@
 
 
 (a)   
-        
+ plot:macm_cas1.jpg which can be find in this repositery 
 
 (b) When n is small (less than 45), the plot of y and x is linear relationship. When n increases to 45 (the blue line in the above diagram), the relationship between y and x looks like linear but there is fluctuation getting clear where x is greater than 2. That is when finite-precision computation begins to visibly differently from exact arithmetic computation. The more obvious difference will happen when n is getting bigger. As you can see, the other two lines shows bigger difference between x and y.
 
